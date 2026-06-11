@@ -8,57 +8,57 @@ print("Temperature in Fahrenheit:", fahrenheit)
 
 
 #palindrome check:
-# n = input("Enter a word: ")
+n = input("Enter a word: ")
 
-# if n == n[::-1]:
-#     print("Palindrome")
-# else:
-#     print("Not Palindrome")
+if n == n[::-1]:
+    print("Palindrome")
+else:
+    print("Not Palindrome")
 
 
 #word counter:
-# sentence = input("Enter a sentence: ")
+sentence = input("Enter a sentence: ")
 
-# words = sentence.split()
+words = sentence.split()
 
-# print("Number of words:", len(words))
+print("Number of words:", len(words))
 
 
 
 
 #min,max,average:
-# num1 = int(input("Enter first number: "))
-# num2 = int(input("Enter second number: "))
-# num3 = int(input("Enter third number: "))
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+num3 = int(input("Enter third number: "))
 
-# maximum = num1
-# if num2 > maximum:
-#     maximum = num2
-# if num3 > maximum:
-#     maximum = num3
+maximum = num1
+if num2 > maximum:
+    maximum = num2
+if num3 > maximum:
+    maximum = num3
 
-# minimum = num1
-# if num2 < minimum:
-#     minimum = num2
-# if num3 < minimum:
-#     minimum = num3
+minimum = num1
+if num2 < minimum:
+    minimum = num2
+if num3 < minimum:
+    minimum = num3
 
-# average = (num1 + num2 + num3) / 3
+average = (num1 + num2 + num3) / 3
 
-# print("Maximum =", maximum)
-# print("Minimum =", minimum)
-# print("Average =", average)
+print("Maximum =", maximum)
+print("Minimum =", minimum)
+print("Average =", average)
 
 
 #to do list:
-# tasks = []
+tasks = []
 
-# task1 = input("Enter first task: ")
-# tasks.append(task1)
+task1 = input("Enter first task: ")
+tasks.append(task1)
 
-# task2 = input("Enter second task: ")
-# tasks.append(task2)
+task2 = input("Enter second task: ")
+tasks.append(task2)
 
-# print("Your Tasks:")
-# for task in tasks:
-#     print(task)
+print("Your Tasks:")
+for task in tasks:
+    print(task)
