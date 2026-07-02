@@ -1,4 +1,4 @@
-#Same method name but different behavior.
+# Same method name but different behavior.
 class Dog:
 
     def sound(self):

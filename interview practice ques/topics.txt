@@ -1,0 +1,35 @@
+Highest Probability (Prepare These First)
+
+1. Reverse a string.
+2. Check if a string is a palindrome.
+3. Check if a number is prime.
+4. Find factorial (iterative and recursive).
+5. Print Fibonacci series.
+6. Find the largest and second-largest element in an array.
+7. Count vowels, consonants, and digits in a string.
+8. Check whether two strings are anagrams.
+9. Remove duplicates from an array or string.
+10. Sort an array (Bubble/Selection sort).
+11. Linear search and Binary search.
+12. Find the frequency of elements in an array.
+13. Find duplicate elements in an array.
+14. Reverse a number.
+15. Sum of digits of a number.
+16. Check for Armstrong numbers.
+17. Find GCD and LCM.
+18. Swap two numbers (with and without a temporary variable).
+19. Find the missing number in an array.
+20. Merge two sorted arrays.
+
+Medium Probability
+
+21. Matrix transpose.
+22. Add two matrices.
+23. Count words in a sentence.
+24. Find the first non-repeating character.
+25. Rotate an array by K positions.
+26. Move all zeros to the end of an array.
+27. Check if all characters in a string are unique.
+28. Print star and number patterns.
+29. Recursive sum of first N numbers.
+30. Basic hash map/dictionary usage.
