@@ -1,0 +1,16 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Notes App</title>
+  <link rel="stylesheet" href="{% static 'notes/style.css' %}">
+</head>
+<body>
+  <nav>
+    <a href="{% url 'note_list' %}">All Notes</a>
+    <a href="{% url 'note_create' %}">New Note</a>
+  </nav>
+
+  {% block content %}{% endblock %}
+</body>
+</html>

@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f7fb;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+nav {
+  background: #2563eb;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 16px;
+}
+
+.note-card {
+  background: white;
+  margin: 12px 0;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px #00000018;
+}
